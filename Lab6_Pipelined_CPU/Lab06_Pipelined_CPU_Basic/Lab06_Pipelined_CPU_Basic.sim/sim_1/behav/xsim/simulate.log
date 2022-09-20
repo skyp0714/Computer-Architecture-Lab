@@ -1,0 +1,6 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+Clock # 1991
+The testbench is finished. Summarizing...
+All Pass!
+$finish called at time : 199250 ns : File "C:/Users/82106/Desktop/2021/Fall_Semester/CD/LAB/Lab06/Lab06_Pipelined_CPU_Basic/Lab06_Pipelined_CPU_Basic.srcs/sim_1/imports/Lab06/cpu_TB.v" Line 159

@@ -1,0 +1,6 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+Clock # 2347
+The testbench is finished. Summarizing...
+All Pass!
+$finish called at time : 234850 ns : File "C:/Users/82106/Desktop/2021/Fall_Semester/CD/LAB/Lab08/Lab08_DMA_Cycle_Stealing/Lab08_DMA_Cycle_Stealing.srcs/sim_1/imports/Lab08/cpu_TB.v" Line 172

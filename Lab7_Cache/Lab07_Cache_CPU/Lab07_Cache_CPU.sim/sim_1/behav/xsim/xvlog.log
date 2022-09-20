@@ -1,0 +1,29 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/82106/Desktop/2021/Fall_Semester/CD/LAB/Lab07/Lab07_Cache_CPU/Lab07_Cache_CPU.srcs/sources_1/imports/Lab07/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/82106/Desktop/2021/Fall_Semester/CD/LAB/Lab07/Lab07_Cache_CPU/Lab07_Cache_CPU.srcs/sources_1/imports/Lab07/BTB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BTB
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/82106/Desktop/2021/Fall_Semester/CD/LAB/Lab07/Lab07_Cache_CPU/Lab07_Cache_CPU.srcs/sources_1/imports/Lab07/Cache.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Cache
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/82106/Desktop/2021/Fall_Semester/CD/LAB/Lab07/Lab07_Cache_CPU/Lab07_Cache_CPU.srcs/sources_1/imports/Lab07/ControlUnit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ControlUnit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/82106/Desktop/2021/Fall_Semester/CD/LAB/Lab07/Lab07_Cache_CPU/Lab07_Cache_CPU.srcs/sources_1/imports/Lab07/Datapath.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Datapath
+INFO: [VRFC 10-2458] undeclared symbol IFBubble, assumed default net type wire [C:/Users/82106/Desktop/2021/Fall_Semester/CD/LAB/Lab07/Lab07_Cache_CPU/Lab07_Cache_CPU.srcs/sources_1/imports/Lab07/Datapath.v:53]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/82106/Desktop/2021/Fall_Semester/CD/LAB/Lab07/Lab07_Cache_CPU/Lab07_Cache_CPU.srcs/sources_1/imports/Lab07/ForwardingUnit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EXForwardingUnit
+INFO: [VRFC 10-311] analyzing module IDForwardingUnit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/82106/Desktop/2021/Fall_Semester/CD/LAB/Lab07/Lab07_Cache_CPU/Lab07_Cache_CPU.srcs/sources_1/imports/Lab07/HazardDetectionUnit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module HazardDetectionUnit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/82106/Desktop/2021/Fall_Semester/CD/LAB/Lab07/Lab07_Cache_CPU/Lab07_Cache_CPU.srcs/sources_1/imports/Lab07/PCResolveUnit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PCResolveUnit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/82106/Desktop/2021/Fall_Semester/CD/LAB/Lab07/Lab07_Cache_CPU/Lab07_Cache_CPU.srcs/sources_1/imports/Lab07/RF.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RF
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/82106/Desktop/2021/Fall_Semester/CD/LAB/Lab07/Lab07_Cache_CPU/Lab07_Cache_CPU.srcs/sources_1/imports/Lab07/cpu.v" into library xil_defaultlib
+WARNING: [VRFC 10-3507] macro 'WORD_SIZE' redefined [C:/Users/82106/Desktop/2021/Fall_Semester/CD/LAB/Lab07/Lab07_Cache_CPU/Lab07_Cache_CPU.srcs/sources_1/imports/Lab07/cpu.v:2]
+INFO: [VRFC 10-311] analyzing module cpu
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/82106/Desktop/2021/Fall_Semester/CD/LAB/Lab07/Lab07_Cache_CPU/Lab07_Cache_CPU.srcs/sources_1/imports/Lab07/memory.v" into library xil_defaultlib
+WARNING: [VRFC 10-3507] macro 'WORD_SIZE' redefined [C:/Users/82106/Desktop/2021/Fall_Semester/CD/LAB/Lab07/Lab07_Cache_CPU/Lab07_Cache_CPU.srcs/sources_1/imports/Lab07/memory.v:4]
+INFO: [VRFC 10-311] analyzing module Memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/82106/Desktop/2021/Fall_Semester/CD/LAB/Lab07/Lab07_Cache_CPU/Lab07_Cache_CPU.srcs/sim_1/imports/Lab07/cpu_TB.v" into library xil_defaultlib
+WARNING: [VRFC 10-3507] macro 'WORD_SIZE' redefined [C:/Users/82106/Desktop/2021/Fall_Semester/CD/LAB/Lab07/Lab07_Cache_CPU/Lab07_Cache_CPU.srcs/sim_1/imports/Lab07/cpu_TB.v:3]
+INFO: [VRFC 10-311] analyzing module cpu_TB

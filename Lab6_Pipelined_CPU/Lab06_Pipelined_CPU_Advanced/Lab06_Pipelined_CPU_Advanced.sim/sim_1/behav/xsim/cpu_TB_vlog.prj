@@ -1,0 +1,19 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Lab06_Pipelined_CPU_Advanced.srcs/sources_1/imports/Lab06/ALU.v" \
+"../../../../Lab06_Pipelined_CPU_Advanced.srcs/sources_1/imports/Lab06/BTB.v" \
+"../../../../Lab06_Pipelined_CPU_Advanced.srcs/sources_1/imports/Lab06/ControlUnit.v" \
+"../../../../Lab06_Pipelined_CPU_Advanced.srcs/sources_1/imports/Lab06/Datapath.v" \
+"../../../../Lab06_Pipelined_CPU_Advanced.srcs/sources_1/imports/Lab06/ForwardingUnit.v" \
+"../../../../Lab06_Pipelined_CPU_Advanced.srcs/sources_1/imports/Lab06/HazardDetectionUnit.v" \
+"../../../../Lab06_Pipelined_CPU_Advanced.srcs/sources_1/imports/Lab06/PCResolveUnit.v" \
+"../../../../Lab06_Pipelined_CPU_Advanced.srcs/sources_1/imports/Lab06/RF.v" \
+"../../../../Lab06_Pipelined_CPU_Advanced.srcs/sources_1/imports/Lab06/cpu.v" \
+"../../../../Lab06_Pipelined_CPU_Advanced.srcs/sources_1/imports/Lab06/memory.v" \
+"../../../../Lab06_Pipelined_CPU_Advanced.srcs/sim_1/imports/Lab06/cpu_TB.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

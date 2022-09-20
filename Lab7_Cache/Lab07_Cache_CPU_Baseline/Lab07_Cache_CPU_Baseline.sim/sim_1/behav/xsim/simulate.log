@@ -1,0 +1,6 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+Clock # 2196
+The testbench is finished. Summarizing...
+All Pass!
+$finish called at time : 219750 ns : File "C:/Users/82106/Desktop/2021/Fall_Semester/CD/LAB/Lab07/Lab07_Cache_CPU_Baseline/Lab07_Cache_CPU_Baseline.srcs/sim_1/imports/Lab07/cpu_TB.v" Line 159

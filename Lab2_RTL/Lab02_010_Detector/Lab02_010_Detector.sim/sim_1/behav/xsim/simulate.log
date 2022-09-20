@@ -1,0 +1,4 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+Passed = 128, Failed = 0
+$finish called at time : 131 ns : File "C:/Users/82106/Desktop/2021/Fall Semester/CD/LAB/Lab02/Lab02_010_Detector/Lab02_010_Detector.srcs/sim_1/imports/Lab02/010_tb.v" Line 61

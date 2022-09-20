@@ -1,0 +1,22 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Lab08_DMA_Cycle_Stealing.srcs/sources_1/imports/Lab08/ALU.v" \
+"../../../../Lab08_DMA_Cycle_Stealing.srcs/sources_1/imports/Lab08/BTB.v" \
+"../../../../Lab08_DMA_Cycle_Stealing.srcs/sources_1/imports/Lab08/Cache.v" \
+"../../../../Lab08_DMA_Cycle_Stealing.srcs/sources_1/imports/Lab08/ControlUnit.v" \
+"../../../../Lab08_DMA_Cycle_Stealing.srcs/sources_1/imports/Lab08/DMA.v" \
+"../../../../Lab08_DMA_Cycle_Stealing.srcs/sources_1/imports/Lab08/Datapath.v" \
+"../../../../Lab08_DMA_Cycle_Stealing.srcs/sources_1/imports/Lab08/ForwardingUnit.v" \
+"../../../../Lab08_DMA_Cycle_Stealing.srcs/sources_1/imports/Lab08/HazardDetectionUnit.v" \
+"../../../../Lab08_DMA_Cycle_Stealing.srcs/sources_1/imports/Lab08/PCResolveUnit.v" \
+"../../../../Lab08_DMA_Cycle_Stealing.srcs/sources_1/imports/Lab08/RF.v" \
+"../../../../Lab08_DMA_Cycle_Stealing.srcs/sources_1/imports/Lab08/cpu.v" \
+"../../../../Lab08_DMA_Cycle_Stealing.srcs/sources_1/imports/Lab08/external_device.v" \
+"../../../../Lab08_DMA_Cycle_Stealing.srcs/sources_1/imports/Lab08/memory.v" \
+"../../../../Lab08_DMA_Cycle_Stealing.srcs/sim_1/imports/Lab08/cpu_TB.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

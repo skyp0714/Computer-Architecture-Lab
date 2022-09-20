@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Nov 22 03:03:09 2021
+# Process ID: 20444
+# Current directory: C:/Users/82106/Desktop/2021/Fall_Semester/CD/LAB/Lab07/Lab07_Cache_CPU_Baseline/Lab07_Cache_CPU_Baseline.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/82106/Desktop/2021/Fall_Semester/CD/LAB/Lab07/Lab07_Cache_CPU_Baseline/Lab07_Cache_CPU_Baseline.sim/sim_1/behav/xsim/xsim.dir/cpu_TB_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/82106/Desktop/2021/Fall_Semester/CD/LAB/Lab07/Lab07_Cache_CPU_Baseline/Lab07_Cache_CPU_Baseline.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/82106/Desktop/2021/Fall_Semester/CD/LAB/Lab07/Lab07_Cache_CPU_Baseline/Lab07_Cache_CPU_Baseline.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/82106/Desktop/2021/Fall_Semester/CD/LAB/Lab07/Lab07_Cache_CPU_Baseline/Lab07_Cache_CPU_Baseline.sim/sim_1/behav/xsim/xsim.dir/cpu_TB_behav/webtalk/xsim_webtalk.tcl -notrace
